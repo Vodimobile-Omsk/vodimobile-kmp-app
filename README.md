@@ -84,7 +84,6 @@ crm.test.refresh.token =
 **Shared 🔮**
 - [Data Store](https://developer.android.com/kotlin/multiplatform/datastore) с использованием [Mutex](https://github.com/android/kotlin-multiplatform-samples/blob/main/DiceRoller/shared/src/commonMain/kotlin/com/google/samples/apps/diceroller/createDataStore.kt) в KMP
 - [Ktor](https://ktor.io/)
-- [SQLDelight](https://github.com/cashapp/sqldelight)
 - [Koin KMP](https://insert-koin.io/docs/reference/koin-mp/kmp/)
 - [Coroutines](https://kotlinlang.org/docs/multiplatform-add-dependencies.html#kotlinx-libraries)
 - [Skie](https://skie.touchlab.co/configuration/)
